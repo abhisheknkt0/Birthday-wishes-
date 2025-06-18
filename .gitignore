@@ -1,33 +1,69 @@
-# Gradle files
-.gradle/
-build/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Happy Birthday Neha ji 🎉</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background: linear-gradient(to right, #ffdde1, #ee9ca7);
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      color: #333;
+    }
+    h1 {
+      margin-top: 30px;
+      font-size: 3em;
+      color: #fff;
+      text-shadow: 2px 2px #000;
+    }
+    .message {
+      font-size: 1.3em;
+      margin: 20px;
+      padding: 20px;
+      background: rgba(255,255,255,0.8);
+      border-radius: 12px;
+      display: inline-block;
+    }
+    .photo {
+      margin-top: 20px;
+    }
+    .photo img {
+      border-radius: 20px;
+      max-width: 80%;
+      height: auto;
+      box-shadow: 0 0 15px rgba(0,0,0,0.4);
+    }
+    footer {
+      margin-top: 40px;
+      padding: 20px;
+      background: #fff;
+      font-size: 1em;
+      color: #444;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎂 Happy Birthday Neha ji 🎂</h1>
 
-# Local configuration file (sdk path, etc)
-local.properties
+  <div class="message">
+    <p>Dear Neha ji,</p>
+    <p>On this very special day, I just want to say how grateful I am to have a friend like you. Your smile, kindness, and strength inspire everyone around you.</p>
+    <p>I hope this day brings you lots of joy, laughter, and all your favorite things! 💐</p>
+    <p>May your life always be filled with happiness and love. Happy Birthday once again! 🎉❤️</p>
+    <p>— From your best friend 💫</p>
+  </div>
 
-# Log/OS Files
-*.log
+  <div class="photo">
+    <img src="https://i.imgur.com/N6X0aNW.jpg" alt="Happy Birthday Photo" />
+    <!-- Replace this URL with her real photo URL if available -->
+  </div>
 
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.apk
-output-metadata.json
-
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
+  <footer>
+    Made with 💖 by [Your Name] <br>
+    Wishing You The Best Birthday Ever!
+  </footer>
+</body>
+</html>
